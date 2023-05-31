@@ -1,16 +1,22 @@
 # genomicSurveillanceR
 Script to process fasta file and metadata from GISAID data base
 
-# Analysis --
-# Number of cases per week and per sex (male/female)
-# Number of cases per age group and per sex (male/female)
-# Number of cases per city and per sex (male/female)
-# Temporal distribution of lineages
-# Temporal frequence of lineages
-# Principal component of samples per lineage
-# Outliners analises (possible new variants)
+# Analysis
+Number of cases per week and per sex (male/female)
+ 
+Number of cases per age group and per sex (male/female)
 
-# Pre-processing : alignment and tree from fasta file
+Number of cases per city and per sex (male/female)
+
+Temporal distribution of lineages
+
+Temporal frequence of lineages
+
+Principal component of samples per lineage
+
+Outliners analises (possible new variants)
+
+# Pre-processing
 # Path to fasta file as retrieved from GISAID
 fasta_path="./1684404410482.sequences.fasta"
 
