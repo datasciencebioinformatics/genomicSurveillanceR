@@ -1,9 +1,10 @@
-# genomicSurveillanceR
-Script to process fasta file and metadata from GISAID data base
+<!-- GETTING STARTED -->
+# genomicSurveillanceR 
+Script for bioinformatics of genomic surveillance from GISAID database. In the example, GISAID data from the Brazilian state of Sao Paulo (11-2022 to 04-2023) will be used.
 
-# Analysis
-Number of cases per week and per sex (male/female)
- 
+###  Analysis
+Number of cases per week and per sex (male/female) 
+
 Number of cases per age group and per sex (male/female)
 
 Number of cases per city and per sex (male/female)
@@ -16,24 +17,18 @@ Principal component of samples per lineage
 
 Outliners analises (possible new variants)
 
-# Pre-processing
-# Path to fasta file as retrieved from GISAID
+## Pre-processing
+### Set input (fasta) and output (.aln and .tree ) files
 fasta_path="./1684404410482.sequences.fasta"
-
-# Obs. Use mafft and fasttree to calculate alignment and generate tree
-# Aln path
 aln_path="./1684404410482.sequences.aln"
+tree_path="./1684404410482.sequences.tree"
 
-# Aln path
-tree_path="./1684404410482.sequences.aln"
-
-# Run nextstrain online to obtain 
-# Aligned by nextrain
-# Generate alignment
+### Generate alignment
 mafft --auto $fasta_path > $aln_path
 
-# Here I generate the tree with iqtree
+### Calculate tree
 fasttree -nt $aln_path > $tree_path
 
-
+## Usage
+First, execute the pre-processing steps to compute alignement (mafft) and calculate tree (fasttree).
 
