@@ -20,7 +20,9 @@ Outliners analises (possible new variants)
 ## Pre-processing
 ### Set input (fasta) and output (.aln and .tree ) files
 fasta_path="./1684404410482.sequences.fasta"
+
 aln_path="./1684404410482.sequences.aln"
+
 tree_path="./1684404410482.sequences.tree"
 
 ### Generate alignment
