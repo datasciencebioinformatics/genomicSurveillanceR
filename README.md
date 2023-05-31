@@ -15,22 +15,31 @@ Temporal frequence of lineages
 
 Principal component of samples per lineage
 
-Outliners analises (possible new variants)
+Outliners analises (possible new varia
+
+### Prerequisites
+sudo apt-get install mafft
+
+sudo apt-get install fasttree
+
+sudo apt-get install r-base
+
+R libraries are described in the .r file
 
 ## Pre-processing
-### Set input (fasta) and output (.aln and .tree ) files
+### Input and output
 fasta_path="./1684404410482.sequences.fasta"
 
 aln_path="./1684404410482.sequences.aln"
 
 tree_path="./1684404410482.sequences.tree"
 
-### Generate alignment
+### Alignment
 mafft --auto $fasta_path > $aln_path
 
-### Calculate tree
+### Tree
 fasttree -nt $aln_path > $tree_path
 
 ## Usage
-First, execute the pre-processing steps to compute alignement (mafft) and calculate tree (fasttree).
+First, execute the pre-processing steps to compute alignement (mafft) and calculate tree (fasttree). Second, follow genomicSurveillanceR.script steps.
 
