@@ -15,7 +15,7 @@ Temporal frequence of lineages
 
 Principal component of samples per lineage
 
-Outliners analises (possible new varia
+Outliners analises (possible new variant)
 
 ### Prerequisites
 sudo apt-get install mafft
