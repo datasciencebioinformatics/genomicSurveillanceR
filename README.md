@@ -1,45 +1,6 @@
 <!-- GETTING STARTED -->
 # genomicSurveillanceR 
-Script for bioinformatics of genomic surveillance from GISAID database. In the example, GISAID data from the Brazilian state of Sao Paulo (11-2022 to 04-2023) will be used.
+## Script for bioinformatics of genomic surveillance from GISAID database. 
 
-###  Analysis
-Number of cases per week and per sex (male/female) 
-
-Number of cases per age group and per sex (male/female)
-
-Number of cases per city and per sex (male/female)
-
-Temporal distribution of lineages
-
-Temporal frequency of lineages
-
-Principal component of samples per lineage
-
-Outliners analises (possible new variant)
-
-### Prerequisites
-sudo apt-get install mafft
-
-sudo apt-get install fasttree
-
-sudo apt-get install r-base
-
-R libraries are described in the .r file
-
-## Pre-processing
-### Input and output
-fasta_path="./1684404410482.sequences.fasta"
-
-aln_path="./1684404410482.sequences.aln"
-
-tree_path="./1684404410482.sequences.tree"
-
-### Alignment
-mafft --auto $fasta_path > $aln_path
-
-### Tree
-fasttree -nt $aln_path > $tree_path
-
-## Usage
-First, execute the pre-processing steps to compute alignement (mafft) and calculate tree (fasttree). Second, follow genomicSurveillanceR.script steps.
-
+Statistics on the number of cases vs. covariates (sex, age and location) are produced from SARS-COV2 cases count. Frequencies and temporal distributions of lineages reveal peaks, time of appearance of new variants, waves and cycles.
+The geographic distribution of SARS-COV2 cases can be analyzed is also shown the in the form of maps describing the location of the cases. Finally, phylogeny combined with PCA reveal samples that are not properly grouped - suggesting a new possible new variant.
