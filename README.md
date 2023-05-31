@@ -11,7 +11,7 @@ Number of cases per city and per sex (male/female)
 
 Temporal distribution of lineages
 
-Temporal frequence of lineages
+Temporal frequency of lineages
 
 Principal component of samples per lineage
 
