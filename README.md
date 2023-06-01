@@ -33,15 +33,15 @@ First, execute the pre-processing steps to compute alignement (mafft) and calcul
 #  Analysis
 ### Number of cases per period and per sex (male/female)
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAxgximn42GdZB_1iskWfZnhg8jivOvJVrwB1X4JiY2wTB3jHBfjlV-zNtPp4n97b_ZkOyRnPwbTJfR9I-gl-bo6Bq-H9nKYGhWQOs8d83FQrGsjWBmgxuzJQOMZhXiAUiUgPslY-YMrGEBNkrhlD1bCKZMJrxehOmz-b1WI4Mh89t5eY5_EXO5ydA/s2400/plot_number_of_cases_per_period.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBgKhGgBUhVs9lUASPKc7Y7FocSmb9Pc2wU5n7Cn4Gfu9bxC5w-DVGpvFpzPYSVVHpnqpSm5AYAgY_d1MX45jGJxbMp5c2dAUbAdyj7xfTPBI0Lp0Dr-5ce-mnrXqaseWkd3ISv7JavAtfzqBvKmP3Z3bYgPGBUbsGXI0wna_cqXsPN-64lvZJPRkh/s2400/plot_number_of_cases_per_period.png)
 
 ### Number of cases per age group and per sex (male/female)
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit5gzWYp-4fgKhZHoQUCdREPjI0_bfVxsmRW7NgnvGgNVmkFoTRudttv9hqccY74XfIyMP4ierENLiPVaCO0FuOSGItSKL680IjIwrxTOIcThgESYj1-X47iPzxkms-UTjJ--DzhI6n0ECn1f6Iw5J391OaD0gZXJjaD0H6z94nb7R6VSPJ8MsciOh/s2400/plot_number_of_cases_per_age_group.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgv7y0jBPg2idRTlitSnGjzQf7WO-xOg66QlnvOa8wBRi0PuTyekqSpjQEHr7ze4ra03N3g2t-6N7X2Q8MGJfjtgEepL6NTlUh-UhFkmLMY_XQz634SryUaEw7TkTaEiutdZb1NWv1PdJ5qYFrZ1vJMOdgRmtN7D0J-5w5Xnt0zeFeiFaTNXvqQfFR/s2400/plot_number_of_cases_per_age_group.png)
 
 ### Number of cases per city and per sex (male/female)
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAxgximn42GdZB_1iskWfZnhg8jivOvJVrwB1X4JiY2wTB3jHBfjlV-zNtPp4n97b_ZkOyRnPwbTJfR9I-gl-bo6Bq-H9nKYGhWQOs8d83FQrGsjWBmgxuzJQOMZhXiAUiUgPslY-YMrGEBNkrhlD1bCKZMJrxehOmz-b1WI4Mh89t5eY5_EXO5ydA/s2400/plot_number_of_cases_per_period.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK2oxEZS-3TTyXxXCkobNhZD7FkA9CyBCZrD1vuZquiSw-Mak3BjJaTir2rjR4zbV_jBrNpxC_KJR5CwT8akWkz1YlPaMVAt6XoJxADPWJMbIkgUBXWUdpmM9LsvEqaqhnkzulq7-04EBNKtbhPtcwVjSPfykHx9ZfKtlDlYLWIQTWoUuQbFkl4zPy/s2400/plot_Numero%20de_casos_por_cidade.png)
 
 ### Temporal distribution of lineages
 
