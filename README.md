@@ -55,4 +55,6 @@ First, execute the pre-processing steps to compute alignement (mafft) and calcul
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOwkFtnVUK5QNCzPX_kOlf_p50Xv1sMwOTdOykSHcu0W6Fd8_iyBVk5qVGNPKH5bVGwXMAZZwGoFtHyvB_gYGDIpoBPCWcwe-XGY5b4plW7KJJXMMyYCJngZq1RDLKr5wOfbtKD7RDr7Qv0ZtRu6ZoiPQs4TkeI-kwbY-hJ39K_FeJGx3HI3yWsKg/s2400/PCA_lineages.png)
 
-### Outlier analyses (possible new variant)![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbR0ffb8JRs3ArB3armbBuTqZOZEABcIj9Bcl603JshKJ5nd6blVcVvR6dZ7hmXv2MayoO0SBCR0cakyZmQVKeKT5vfV_AaZhMa5ErlN0feVxU6lI7mllqZXRpa1vnNc8sLTWxlAzYDnPBsioSdM7XJw9zmR4bisxn4kkYq3Tm0ZXyWzpPCiBDiDgN/s2400/PCA_outliners.png))
+### Outlier analyses (possible new variant)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk5kpxFmwYklOj-nrhCM14cGBZsR1hDfbuR8bkz3wFsXmcjSEDOyzGyUx7imVB2BqmHeIreAOSmoAoBdlY6HipS_KQLjP0qR7xM4HX9EXqa56jBZ8FVLFK4fa-SOVPdnVlauxnHSXk_IaAjI15obAU6_0NH0C5JW-haTSC356Xw-546asFB3naoW1O/s2400/PCA_outliners.png)
