@@ -45,7 +45,7 @@ First, execute the pre-processing steps to compute alignement (mafft) and calcul
 
 ### Temporal distribution of lineages
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhSFf6-usViD9su19Fmpu0h1kj-f-ZuZ_JCpodF3DaMFea4VQr_4Nen9TuUY57TEARLYg8sIS6amWQzvCyO0rxwJ5Zft6OYmpf1oN7_qJtLXNvn4A7oTjzStW9nHrmoHlGN8Fn-XjXdwiws4JS0jkg1ayokqpu5TVsvATl5hlQciBybu6a7zGNCkWQ/s3000/plot_scheme_of_lineage_distribution.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja2vS2rgCdAnwyOgzDPt1vPkGv2cwVJVXPHRFhInu5GNx7he02_VVQ6jcgnu8ZgOaxbZo_lPQut3-JKq46JZbobGasSyuBqnjPZsqdMt5EQ8dEd_RcD7e0gQtx98RByNXbAtTpNvJ6EN0La400vOpSfeFnMgU-uE1ERSwz8P0Xwvv_798PA0-atrpL/s3000/plot_temporal_frequency_of_lineages.png)
 
 ### Scheme for frequency of lineages
 
